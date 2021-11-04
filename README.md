@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# WEBPACK BOILERPLATE
 
-> One paragraph statement about the project.
+> This is a template to start a JS project using webpack.
 
 ![screenshot](./app_screenshot.png)
 
@@ -10,50 +10,29 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
+- HTML
+- CSS
+- JS
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+**This is a template using webpack.**
 
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
 ### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+https://webpack.js.org/guides/getting-started/
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Jasem Valencia**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@JasemValencia](https://github.com/JasemDuncan)
+- Twitter: [@JasemValencia](https://twitter.com/JasemValencia)
+- LinkedIn: [@JasemValencia](https://www.linkedin.com/in/jasem-duncan-valencia/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
